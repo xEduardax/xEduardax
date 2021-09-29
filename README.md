@@ -16,8 +16,8 @@ Olá ✌
   <img align="center" alt="Eduarda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="catcoffee-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47p9fj9nn4xsxgqy3ekxpfr8pur3ba3ocfhly2pws4&rid=giphy.gif&ct=g">
 </div>
-
- ##
+ 
+ ## 
  
  <div align="center">
   <a href = "mailto:maria.eduarda2907@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
