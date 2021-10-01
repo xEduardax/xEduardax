@@ -1,7 +1,7 @@
 Olá ✌
 
-- 📚 Atualmente estou estudando JavaScript
-- 😎 Pronomes: Ela/Dela
+- 📚 Atualmente estou estudando JavaScript, HTML, CSS e React.
+- 😎 Pronouns:: Ela/Dela
 
 <div align="center">
  <a href="https://github.com/xEduardax">
