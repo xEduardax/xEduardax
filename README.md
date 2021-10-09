@@ -14,6 +14,7 @@ Olá ✌
   <img align="center" alt="Eduarda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eduarda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eduarda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Eduarda-Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="catcoffee-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47p9fj9nn4xsxgqy3ekxpfr8pur3ba3ocfhly2pws4&rid=giphy.gif&ct=g">
 </div>
  
