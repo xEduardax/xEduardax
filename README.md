@@ -1,6 +1,7 @@
 Olá ✌
 
 - 📚 Atualmente estou estudando JavaScript, HTML, CSS e React.
+- 🎓Formada em Análise e Desenvolvimento de Sistemas e cursando Pós-graduação em Tecnologias para aplicações WEB.
 - 😎 Pronouns: Ela/Dela
 
 <div align="center">
