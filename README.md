@@ -16,8 +16,7 @@ Olá ✌
   <img align="center" alt="Eduarda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eduarda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Eduarda-Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Gif-cat" height="30" width"40" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif">
-
+  <iframe src="https://giphy.com/embed/ES4Vcv8zWfIt2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ES4Vcv8zWfIt2">via GIPHY</a></p>
 </div>
  
  ## 
